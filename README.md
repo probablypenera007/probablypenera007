@@ -12,7 +12,7 @@ Navigating the world of technology with a culturally diverse compass, I'm a Full
 - Creative Problem Solving
 
 ## 🎬 My Side Hustles
-- Filmmaking: Exploring the power of visual storytelling to convey impactful messages.
+- Filmmaking: Exploring the power of visual storytelling to convey impactful messages. 
 - Fusion Cuisine: Celebrating global narratives through the vibrant palette of culinary art.
 
 ## 💡 Projects
@@ -27,8 +27,9 @@ Navigating the world of technology with a culturally diverse compass, I'm a Full
 ![probablypenera007's Stats](https://github-readme-stats.vercel.app/api?username=probablypenera007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 How to Reach Me
-- LinkedIn: James Penera (www.linkedin.com/in/james-penera-3513ab289)
+- LinkedIn: [James Penera](www.linkedin.com/in/james-penera-3513ab289)
 - Email: [jamespenera@icloud.com](mailto:jamespenera@icloud.com)
+- Instagram: [probablypenera](https://www.instagram.com/probablypenera/)
 
 ## 🌟 From [probablypenera007](https://github.com/probablypenera007)
 
