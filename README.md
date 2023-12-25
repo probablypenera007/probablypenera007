@@ -27,7 +27,7 @@ Navigating the world of technology with a culturally diverse compass, I'm a Full
 ![probablypenera007's Stats](https://github-readme-stats.vercel.app/api?username=probablypenera007&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 How to Reach Me
-- LinkedIn: James Penera (https://www.linkedin.com/in/james-penera-3513ab289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- LinkedIn: James Penera (www.linkedin.com/in/james-penera-3513ab289)
 - Email: [jamespenera@icloud.com](mailto:jamespenera@icloud.com)
 
 ## 🌟 From [probablypenera007](https://github.com/probablypenera007)
