@@ -6,6 +6,10 @@ Navigating the world of technology with a culturally diverse compass, I'm a Full
 👨‍💻 As a software engineer, I've pioneered community-centric apps that address real-life challenges and celebrate global narratives through culinary ventures. My ability to communicate across different cultural spectrums, thanks to my multilingual background, adds depth to my global perspective. Positioned at the crossroads of creativity and technical expertise, I'm driven to deliver innovative, inclusive solutions.
 
 ## Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 Here are some of the technologies I work with:
 
@@ -32,11 +36,14 @@ Here are some of the technologies I work with:
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-005571?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
